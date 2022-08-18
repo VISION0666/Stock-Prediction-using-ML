@@ -3,7 +3,6 @@
 Stocks data is a time series data and hence we'll use various state-of-the-art machine learning techniques to predict stocks price.
 
 Models that we will use are:
-1. Arima
+1. ARIMA
 2. LSTM
 
-Follow the Jupyter notebook uploaded in the RELIANCE_stocks.ipynb for the complete analysis
